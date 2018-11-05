@@ -3,7 +3,7 @@
 * `git clone <repository-url>` this repository
 * change into the new directory
 * `npm install`
-* `bower install`
+* `bower install` if necessary run - `npm install -g bower`
 
 ## Running / Development
 
